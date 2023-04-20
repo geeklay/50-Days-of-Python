@@ -42,7 +42,7 @@ print(check_duplicates(['apple','orange','banana','apple']))
 print(check_duplicates(['Yoda', 'Moses', 'Joshua', 'Mark']))
 ```
 
-### "Day" 3
+### "Day 3"
 ```python
 def register_check(d):
     s = 0
