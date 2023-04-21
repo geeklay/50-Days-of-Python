@@ -3,7 +3,7 @@
 def biggest_odd(st):
     return max(int(i) for i in st) 
 
-#Puts 0 at end of list and also 
+#Puts 0 at end of list. If there are no 0s it sorts the list in ascending order.
 def zeros_last(l):
     if(l.count(0)==0):
         l.sort()
